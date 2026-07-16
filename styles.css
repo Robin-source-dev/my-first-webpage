@@ -2,9 +2,15 @@ body{
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
+    margin: 20px;
 }
 h1{
     color: darkblue;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1;
 }
 .destination{
     margin-bottom: 30px;
